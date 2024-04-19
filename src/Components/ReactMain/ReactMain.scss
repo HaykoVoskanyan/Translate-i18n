@@ -1,0 +1,19 @@
+.Main {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px 0;
+  .Main_section {
+    width: 500px;
+    h3 {
+      color: white;
+    }
+    p {
+      line-height: 25px;
+    }
+  }
+  img{
+    height: 400px;
+    width: 550px;
+    margin: 50px 0px;
+  }
+}

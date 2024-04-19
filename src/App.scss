@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(76, 76, 148);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(245, 245, 245, 0.769);
+    .conteiner{
+      max-width: 1200px;
+      margin: 0px auto;  
+    }
+  }
+ li{
+  list-style: none;
+ }
+ select{
+  background-color:rgb(102, 102, 172);
+  color:rgb(255, 255, 255);
+  border: none;
+  font-size: 18px;
+  letter-spacing: 2px;
+ }

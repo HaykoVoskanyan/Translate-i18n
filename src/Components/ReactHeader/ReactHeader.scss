@@ -1,0 +1,24 @@
+.Header__item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    img{
+        height: 200px;
+        width: 200px;
+       
+      }
+      h1{
+        color: white;
+      }
+    
+}
+.Header__item-section{
+    text-align: center;
+ p{
+    width: 600px;
+    margin: 0 auto;
+    line-height: 25px;
+ }
+
+}
